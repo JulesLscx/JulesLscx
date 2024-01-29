@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm [Your Name], a passionate Computer Science student based in the charming city of Toulouse, France 🇫🇷. 
+I'm [Jules Lascoux](https://github.com/JulesLscx/), a passionate Computer Science student based in the charming city of Toulouse, France 🇫🇷. 
 
 ## 💻 About Me
 
